@@ -27,26 +27,25 @@ OSS License 종류는 다양하지만 6가지 정도의 자주 나오는 라이�
 
 -------------
 ### Week2-2 Git
-* 이런내용
-* 저런내용
-
-![Image] (그림.png)
-
+1. git : history 관리하는 도구  
+2. 기능
+- history 관리 기능 : 차이가 무엇이고 수정이유를 log 남길 수 있다  
+- 타임머신 기능 : 현재파일들은 안전한 상태로 과거상태 그대로 복원가능  
 -------------
 ### Week2-3 Github, fork, pull request
-* 이런내용
-  > 그런데 이런거
-* 저런내용
-  > 그런데 저런거
+* github : git 이라는 도구를 응용한 사이트, 각종 remote repository들의 집합소
+`fork`
+`pull request`
+![Image] (https://velog.velcdn.com/images/blackwidow/post/b4b5e4b1-ced8-417f-a4f7-386003ff5aac/gitfork_fullrequest.jpg )
 
-[My Github Blog](https://github.com/kkanuseobin)
+[My Github Blog](https://github.com/kwak-jiho)
 
 -------------
 ### Week3     Markdown
 Heading
 ========  
 **bold**  
-1.list  
+1.list
 * a  
 * b  
 * c  
