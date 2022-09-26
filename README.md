@@ -22,8 +22,15 @@ OSS License 종류는 다양하지만 6가지 정도의 자주 나오는 라이�
 ---
 -------------
 ### Week2-1 버전 관리 개요
-* 이런내용
-* 저런내용
+1. **vcs software**
+- CVS  
+- SVN  
+- Mercurial  
+- Darcs  
+- Git
+
+diffs, branching, merging, conflicts, tagging
+---
 
 -------------
 ### Week2-2 Git
@@ -36,7 +43,7 @@ OSS License 종류는 다양하지만 6가지 정도의 자주 나오는 라이�
 * github : git 이라는 도구를 응용한 사이트, 각종 remote repository들의 집합소.  
 `fork`  
 `pull request`  
-![Image] (https://velog.velcdn.com/images/blackwidow/post/b4b5e4b1-ced8-417f-a4f7-386003ff5aac/gitfork_fullrequest.jpg )
+![fork pull request image] (https://velog.velcdn.com/images/blackwidow/post/b4b5e4b1-ced8-417f-a4f7-386003ff5aac/gitfork_fullrequest.jpg )
 
 [My Github Blog](https://github.com/kwak-jiho)
 
