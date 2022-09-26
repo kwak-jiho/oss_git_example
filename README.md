@@ -44,11 +44,11 @@ OSS License 종류는 다양하지만 6가지 정도의 자주 나오는 라이�
 -------------
 ### Week3     Markdown
 Heading
-========
-**bold**
-1.list
-* a
-* b
-* c
-_italic_
-`monospace`
+========  
+**bold**  
+1.list  
+* a  
+* b  
+* c  
+_italic_  
+`monospace`  
